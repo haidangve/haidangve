@@ -2,10 +2,10 @@
   
 # 👋 Hi, I'm Kai Nguyen
 
-### 🚀 A passionate and unconventional Software Developer based in Toronto
-### 💡 I'm hungry for success 24/7 and have a vision to build technologies that make our life easier!
+###  "NOT YOUR CLASSIC" Software Developerbased in Toronto
+###  I'm hungry for success 24/7 and have a vision to build "aesthetically-pleasing" technologies that make our life easier!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Java+%7C+Python+%7C+C%23;Always+Learning+New+Technologies;Building+the+Future+with+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Java+%7C+Python+%7C+C%23;Learning+Something+New+Everyday;Building+the+Future+with+Code+and+Art" alt="Typing SVG" />
 
 ---
 
