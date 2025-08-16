@@ -31,17 +31,46 @@ const kai = {
 
 <div align="center">
 
-### **Frontend**
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+### **Frontend Development**
+<div style="display: flex; gap: 8px; align-items: center; justify-content: center; flex-wrap: wrap;">
+<img src="https://iconic-api.onrender.com/dark/react" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/nextjs" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/typescript" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/css" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/tailwind" width="64px" />
+</div>
 
-### **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,cs,spring,dotnet" />
+### **Backend Development**
+<div style="display: flex; gap: 8px; align-items: center; justify-content: center; flex-wrap: wrap;">
+<img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/express" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/java" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/csharp" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/spring" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/dotnet" width="64px" />
+</div>
 
 ### **Database & Cloud**
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase" />
+<div style="display: flex; gap: 8px; align-items: center; justify-content: center; flex-wrap: wrap;">
+<img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/mongodb" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/firebase" width="64px" />
+</div>
 
 ### **Tools & Design**
-<img src="https://skillicons.dev/icons?i=git,docker,linux,figma,photoshop,unity,blender" />
+<div style="display: flex; gap: 8px; align-items: center; justify-content: center; flex-wrap: wrap;">
+<img src="https://iconic-api.onrender.com/dark/git" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/figma" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/photoshop" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/unity" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/blender" width="64px" />
+</div>
 
 </div>
 
