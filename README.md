@@ -21,7 +21,7 @@ const kai = {
     motto: "NOT YOUR CLASSIC Developer",
     currentFocus: ["AWS", "AI/ML", "Advanced UX/UI"],
     goal: "Building aesthetically-pleasing technologies that make life easier",
-    status: "Chugging caffein 24/7 to fuel my hunger for success"
+    status: "Chugging caffeine 24/7 to fuel my hunger for success"
 };
 ```
 
@@ -40,6 +40,7 @@ const kai = {
 <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
 <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
 <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=redux" title="Redux" />
 </p>
 
 ### **Backend Development**
