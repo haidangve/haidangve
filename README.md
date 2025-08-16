@@ -16,12 +16,12 @@
 
 ```javascript
 const kai = {
-    pronouns: "He/Him",
-    location: "Toronto, Canada",
+    pronouns: "He/Yaa",
+    location: "Toronto, ON, Canada",
     motto: "NOT YOUR CLASSIC Developer",
-    currentFocus: ["Next.js", "AI/ML", "Advanced Python Libraries"],
+    currentFocus: ["AWS", "AI/ML", "Advanced UX/UI"],
     goal: "Building aesthetically-pleasing technologies that make life easier",
-    status: "Always hungry for success 24/7"
+    status: "Chugging caffein 24/7 to fuel my hunger for success"
 };
 ```
 
@@ -32,45 +32,53 @@ const kai = {
 <div align="center">
 
 ### **Frontend Development**
-<div style="display: flex; gap: 8px; align-items: center; justify-content: center; flex-wrap: wrap;">
-<img src="https://iconic-api.onrender.com/dark/react" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/nextjs" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/typescript" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/js" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/css" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/tailwind" width="64px" />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=react" title="React" />
+<img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+</p>
 
 ### **Backend Development**
-<div style="display: flex; gap: 8px; align-items: center; justify-content: center; flex-wrap: wrap;">
-<img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/express" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/java" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/csharp" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/spring" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/dotnet" width="64px" />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=java" title="Java" />
+<img src="https://skillicons.dev/icons?i=python" title="Python" />    
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+<img src="https://skillicons.dev/icons?i=cs" title="C#" />
+<img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+<img src="https://skillicons.dev/icons?i=php" title="PHP" />
+<img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
+</p>
 
-### **Database & Cloud**
-<div style="display: flex; gap: 8px; align-items: center; justify-content: center; flex-wrap: wrap;">
-<img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/mongodb" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/firebase" width="64px" />
-</div>
+### **Database & Cloud Computing**
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+<img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+<img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services" />
+<img src="https://skillicons.dev/icons?i=azure" title="Microsoft Azure" />
+</p>
+
+### **AWS Services**
+<p>
+<img src="https://skillicons.dev/icons?i=aws" title="AWS EC2, S3, Lambda & More" />
+</p>
 
 ### **Tools & Design**
-<div style="display: flex; gap: 8px; align-items: center; justify-content: center; flex-wrap: wrap;">
-<img src="https://iconic-api.onrender.com/dark/git" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/figma" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/photoshop" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/unity" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/blender" width="64px" />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git" title="Git" />
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+<img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+<img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+<img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+<img src="https://skillicons.dev/icons?i=ps" title="Adobe Photoshop" />
+<img src="https://skillicons.dev/icons?i=ai" title="Adobe Illustrator" />
+<img src="https://skillicons.dev/icons?i=blender" title="Blender" />
+</p>
 
 </div>
 
