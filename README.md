@@ -1,132 +1,103 @@
 <div align="center">
-  
-# 👋 Hi, I'm Kai Nguyen
 
-###  "NOT YOUR CLASSIC" Software Developerbased in Toronto
-###  I'm hungry for success 24/7 and have a vision to build "aesthetically-pleasing" technologies that make our life easier!
+<img src="https://notion-avatar.app/api/svg/eyJmYWNlIjo3LCJub3NlIjo0LCJtb3V0aCI6MTAsImV5ZXMiOjEwLCJleWVicm93cyI6NiwiZ2xhc3NlcyI6MiwiaGFpciI6MzksImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MCwiZmxpcCI6MCwiY29sb3IiOiJyZ2JhKDI1NSwgMCwgMCwgMCkiLCJzaGFwZSI6Im5vbmUifQ==" width="100" style="border-radius: 50%; margin-bottom: 20px;"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Java+%7C+Python+%7C+C%23;Learning+Something+New+Everyday;Building+the+Future+with+Code+and+Art" alt="Typing SVG" />
+# Hi, I'm **Kai Nguyen** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=%22NOT+YOUR+CLASSIC%22+Software+Developer;Based+in+Toronto+%F0%9F%87%A8%F0%9F%87%A6;Building+Aesthetic+Technologies;Always+Hungry+for+Success+24%2F7" alt="Typing SVG" />
+</p>
+
+<br>
 
 </div>
 
-## 🌱 What I'm Currently Learning
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **About Me**
 
 ```javascript
-const currentFocus = {
-    technologies: ["Next.js", "AI/ML", "Advanced Python Libraries"],
-    goals: "Building technologies that make life easier",
+const kai = {
+    pronouns: "He/Him",
+    location: "Toronto, Canada",
+    motto: "NOT YOUR CLASSIC Developer",
+    currentFocus: ["Next.js", "AI/ML", "Advanced Python Libraries"],
+    goal: "Building aesthetically-pleasing technologies that make life easier",
     status: "Always hungry for success 24/7"
 };
 ```
 
-## 💬 Ask Me About
+<br>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> **Tech Stack**
 
 <div align="center">
 
-| **Frontend** | **Backend** | **Languages** | **Databases** |
-|:---:|:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+
+### **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,cs,spring,dotnet" />
+
+### **Database & Cloud**
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase" />
+
+### **Tools & Design**
+<img src="https://skillicons.dev/icons?i=git,docker,linux,figma,photoshop,unity,blender" />
 
 </div>
 
-## 🛠️ Technologies & Tools
+<br>
 
-<div align="center">
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-### 🔧 Tools & Others
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> **GitHub Analytics**
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=haidangve&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidangve&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=haidangve&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Kai's%20GitHub%20Stats" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=haidangve&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidangve&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=haidangve&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=haidangve&theme=tokyonight)](https://git.io/streak-stats)
+<br>
 
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=haidangve&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 🔥 Contribution Graph
-
-<div align="center">
-  
-[![Kai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haidangve&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 📫 How to Reach Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **Connect With Me**
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kai-nguyen09)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nvdh_ai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duchai.nv0909@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duchai.nv0909@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haidangve)
 
 </div>
 
-## 💡 Quote
+<br>
+
+## <img src="https://media.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="25"> **Quote**
 
 <div align="center">
-  
-*"The best way to predict the future is to create it."* - Peter Drucker
+
+> *"The best way to predict the future is to create it."*
+> 
+> **— Peter Drucker**
+
+</div>
+
+<br>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=haidangve&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<div align="center">
 
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+<img src="https://komarev.com/ghpvc/?username=haidangve&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
+
+<br><br>
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50">
+
+**Thanks for visiting! Let's connect and build something amazing together!** <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="20">
 
 </div>
