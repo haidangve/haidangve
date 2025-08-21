@@ -64,11 +64,6 @@ const kai = {
 <img src="https://skillicons.dev/icons?i=azure" title="Microsoft Azure" />
 </p>
 
-### **AWS Services**
-<p>
-<img src="https://skillicons.dev/icons?i=aws" title="AWS EC2, S3, Lambda & More" />
-</p>
-
 ### **Tools & Design**
 <p>
 <img src="https://skillicons.dev/icons?i=git" title="Git" />
